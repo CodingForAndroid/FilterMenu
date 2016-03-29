@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="rank_classify">
+        <item>全部</item>
+        <item>科幻</item>
+        <item>爱情</item>
+        <item>魔法</item>
+        <item>完结</item>
+        <item>少男</item>
+        <item>少女</item>
+        <item>校园</item>
+        <item>都市</item>
+        <item>周边</item>
+        <item>现代</item>
+        <item>穿越</item>
+        <item>同人</item>
+    </string-array>
+    <string-array name="rank_time">
+        <item>日</item>
+        <item>周</item>
+        <item>月</item>
+        <item>总</item>
+    </string-array>
+    <string-array name="array_grid">
+        <item>阿里巴巴</item>
+        <item>腾讯QQ</item>
+        <item>百度管家</item>
+        <item>安全卫士</item>
+        <item>净网大师</item>
+        <item>UC浏览器</item>
+        <item>酷我音乐</item>
+        <item>京东叮咚</item>
+        <item>软件管家</item>
+        <item>金山管家</item>
+        <item>搜狗壁纸</item>
+        <item>迅雷看看</item>
+        <item>爱奇艺</item>
+        <item>英雄联盟</item>
+        <item>鲁大师</item>
+        <item>暴风影音</item>
+        <item>有道词典</item>
+        <item>QQ影音</item>
+        <item>腾讯视频</item>
+    </string-array>
+
+</resources>

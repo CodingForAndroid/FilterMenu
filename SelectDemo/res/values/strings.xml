@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SelectDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="classify">分类</string>
+    <string name="time">时间</string>
+    <string name="type">类型</string>
+    <string name="rank_popular">人气排行</string>
+    <string name="rank_subscribe">订阅排行</string>
+    <string name="rank_xx">xxx排行</string>
+    <string name="rank_chose_class">选择分类</string>
+    <string name="rank_chose_time">选择时间</string>
+</resources>
